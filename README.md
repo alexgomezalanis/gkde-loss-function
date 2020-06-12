@@ -7,6 +7,6 @@ Biometric systems are exposed to spoofing attacks which may compromise their sec
 
 ## Log Likelihood Matrix
 
-![Alt text](/images/log_likelihood_matrix.png?raw=true "System overview for computing the log likelihood matrix of a mini-batch of $N \times M$ utterances.")
+![Alt text](/images/log_likelihood_matrix_v2.png?raw=true "System overview for computing the log likelihood matrix of a mini-batch of $N \times M$ utterances.")
 
 System overview for computing the log likelihood matrix of a mini-batch of N x M utterances.
